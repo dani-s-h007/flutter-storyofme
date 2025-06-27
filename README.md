@@ -22,5 +22,5 @@ No UI, no distractions. Just you, your terminal, and your story.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/the-story-of-me-dart.git
+git clone https://github.com/dani-s-h007/flutter-storyofme.git
 cd the-story-of-me-dart
